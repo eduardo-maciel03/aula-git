@@ -1,1 +1,2 @@
-# aula-git
+# Git e GitHub
+Aula da faculdade
